@@ -35,5 +35,5 @@ def main():
       print Sort
 
 
-if _id == "__main__":
+if __name__ == "__main__":
       main()
